@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+int maint(){
+  int a,b;
+  cin>>a>>b;
+  cout<<a+b<<endl;
+}
